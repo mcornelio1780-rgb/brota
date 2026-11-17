@@ -1,0 +1,11 @@
+{
+  "name": "brota-web",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "Brota — landing y servicios (Limly LLC)",
+  "engines": { "node": ">=20" },
+  "dependencies": {
+    "@neondatabase/serverless": "^1.2.1"
+  }
+}
